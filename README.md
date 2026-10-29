@@ -1,42 +1,57 @@
-# 👋 Bem-vindo ao meu GitHub
+<h1 align="center">Wellington Henrique</h1>
+<p align="center"><b>Desenvolvedor FullStack · .NET (C#) · React · Integrações SAP Business One</b></p>
 
-### 📌 Sobre mim  
-Sou Desenvolvedor FullStack com sólida experiência em **.NET (C#)**, **ASP.NET Core** e **React**. Tenho atuação prática em integrações complexas com SAP Business One, criando APIs e portais que já movimentaram milhões em operações de vendas.  
-Tenho interesse crescente e foco em infraestrutura moderna (Azure, Docker, CI/CD, observabilidade) e em desenvolver soluções escaláveis, seguras e aderentes a resultados de negócio.  
-Valorizo arquitetura limpa, boas práticas de desenvolvimento e código de qualidade.
-
-### 📧 Contato  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonhlc/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wellingtonhlc@gmail.com)
-
-### 🌟 Tecnologias principais  
-![C#](https://img.shields.io/badge/csharp-4B3263.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=dotnet&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2361DAFB)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Azure](https://img.shields.io/badge/microsoft_azure-0b60db?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 🛠️ Ferramentas do dia a dia  
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-4B3263?style=for-the-badge&logo=visual-studio&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://www.linkedin.com/in/wellingtonhlc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:wellingtonhlc@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+</p>
 
 ---
 
-### 📊 Sobre meus projetos e atuação  
-- Projeto de integração API em ASP.NET (C#) + portal React, conectado à Service Layer do SAP Business One, processando +31 mil documentos de vendas e +5 mil cadastros de parceiros.  
-- Desenvolvimento de add-ons personalizados para SAP Business One usando DI API, incluindo cenário de impressão de +11 mil etiquetas GHS.  
-- Criação de relatórios e consultas avançadas com Crystal Reports, SQL Server e SAP HANA, entregando insights de gestão e automação de processos.  
-- Busco sempre alinhar tecnologia a resultados de negócio: construção de soluções personalizadas que entreguem valor real ao cliente.
+### 👨‍💻 Sobre mim
 
----
+Desenvolvo APIs e portais em **ASP.NET Core** e **React**, com foco em integrações ERP que sustentam operações reais de vendas.
+Valorizo arquitetura limpa, testes e código fácil de manter. Hoje aprofundo em **Azure, Docker, CI/CD e observabilidade**.
 
-### 🎯 O que procuro  
-Estou aberto a colaborações ou novos desafios onde eu possa aplicar minhas habilidades em desenvolvimento, integrações ERP, infraestrutura e arquitetura de sistemas — especialmente em contextos onde a solução tenha impacto direto operacional ou estratégico.
+### 🚀 Resultados em destaque
 
----
+| Entrega | Impacto |
+|---|---|
+| API ASP.NET + portal React integrados à Service Layer do SAP Business One | **+31 mil** documentos de vendas e **+5 mil** cadastros de parceiros processados |
+| Add-ons para SAP Business One com DI API | **+11 mil** etiquetas GHS impressas |
+| Relatórios em Crystal Reports, SQL Server e SAP HANA | Indicadores de gestão e automação de processos |
+
+### 🧰 Stack
+
+**Back-end:**
+![C#](https://img.shields.io/badge/C%23-4B3263?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-68217A?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Front-end:**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+**Dados e ERP:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+
+**Infra e ferramentas:**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### 📂 Projetos públicos
+
+- [**cash-flow-api**](https://github.com/Wellington-Henrique/cash-flow-api) — API de fluxo de caixa em C#
+- [**my-bookshelf-api**](https://github.com/Wellington-Henrique/my-bookshelf-api) — API de biblioteca pessoal
+- [**ignite-call**](https://github.com/Wellington-Henrique/ignite-call) — agendamento com Next.js
+- [**05-design-system**](https://github.com/Wellington-Henrique/05-design-system) — design system em React
+
+### 🎯 Aberto a
+
+Projetos e oportunidades em desenvolvimento .NET/React, integrações ERP e arquitetura de sistemas — especialmente onde a solução tem impacto direto na operação.
